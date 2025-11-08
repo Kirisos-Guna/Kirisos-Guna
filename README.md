@@ -126,18 +126,6 @@ Currently working on AI/ML projects for the Indian Stock Market and beyond.
   <img src="https://img.shields.io/badge/Machine_Learning-Expert-ff69b4?style=for-the-badge" alt="Machine Learning"/>
   <img src="https://img.shields.io/badge/Data_Analysis-Expert-ff1493?style=for-the-badge" alt="Data Analysis"/>
   <img src="https://img.shields.io/badge/Statistical_Modeling-Advanced-c71585?style=for-the-badge" alt="Statistical Modeling"/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-## 🎓 Expertise Areas 🎓
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine_Learning-Expert-ff69b4?style=for-the-badge" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/Data_Analysis-Expert-ff1493?style=for-the-badge" alt="Data Analysis"/>
-  <img src="https://img.shields.io/badge/Statistical_Modeling-Advanced-c71585?style=for-the-badge" alt="Statistical Modeling"/>
   <img src="https://img.shields.io/badge/Computer_Vision-Intermediate-ff69b4?style=for-the-badge" alt="Computer Vision"/>
   <img src="https://img.shields.io/badge/Web_Development-Intermediate-ff1493?style=for-the-badge" alt="Web Development"/>
   <img src="https://img.shields.io/badge/AI_Solutions-Advanced-c71585?style=for-the-badge" alt="AI Solutions"/>
