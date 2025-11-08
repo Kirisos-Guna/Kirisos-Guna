@@ -32,7 +32,7 @@ Currently working on AI/ML projects for the Indian Stock Market and beyond.
 
 <p align="center">
   <img src="https://waifuvault.moe/f/6022d729-d2c1-40ea-9953-3afd929414cc/Christimas_Vic_For_Vic_render.png" width="250"/>
-  <img src="https://waifuvault.moe/f/3942f294-5041-437f-8875-56b4016a3345/victorica%20de%20blois,%20gosick,%20gothic%20lolita,%20white%20background,%20black%20pantyhose,%20p%20s-2547239991.png" width="250"/>
+  <img src="https://waifuvault.moe/f/3942f294-5041-437f-8875-56b4016a3345/victorica de blois, gosick, gothic lolita, white background, black pantyhose, p s-2547239991.png" width="250"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
@@ -110,7 +110,6 @@ Currently working on AI/ML projects for the Indian Stock Market and beyond.
   </a>
 </p>
 
-<p align="center">
   <a href="https://github.com/Kirisos-Guna/ai-content-generator">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kirisos-Guna&repo=ai-content-generator&theme=radical&bg_color=0d1117&title_color=ff69b4&icon_color=ff1493&text_color=ffb6c1&border_color=ff69b4&border_radius=15" alt="AI Content Generator"/>
   </a>
@@ -118,6 +117,15 @@ Currently working on AI/ML projects for the Indian Stock Market and beyond.
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kirisos-Guna&repo=CV-Python&theme=radical&bg_color=0d1117&title_color=ff69b4&icon_color=ff1493&text_color=ffb6c1&border_color=ff69b4&border_radius=15" alt="CV-Python"/>
   </a>
 </p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+## 🎓 Expertise Areas 🎓
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine_Learning-Expert-ff69b4?style=for-the-badge" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Data_Analysis-Expert-ff1493?style=for-the-badge" alt="Data Analysis"/>
+  <img src="https://img.shields.io/badge/Statistical_Modeling-Advanced-c71585?style=for-the-badge" alt="Statistical Modeling"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
