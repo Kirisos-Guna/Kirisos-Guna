@@ -32,7 +32,7 @@ Currently working on AI/ML projects for the Indian Stock Market and beyond.
 
 <p align="center">
   <img src="https://waifuvault.moe/f/6022d729-d2c1-40ea-9953-3afd929414cc/Christimas_Vic_For_Vic_render.png" width="250"/>
-  <img src="https://waifuvault.moe/f/39425294-5041-437f-8875-56b4016a345/victorica%20de%20blois,%20gosick,%20gothic%20lolita,%20white%20background,%20black%20pantyhose,%20p%20s-2547239991.png" width="250"/>
+   <img src="https://waifuvault.moe/f/39425294-5041-437f-8875-56eb4016a345/victorica%20de%20blois,%20gosick,%20gothic%20lolita,%20white%20background,%20black%20pantyhose,%20p%20s-2547239991.png" width="250"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
