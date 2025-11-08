@@ -30,6 +30,13 @@ Currently working on AI/ML projects for the Indian Stock Market and beyond.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
+<p align="center">
+  <img src="https://waifuvault.moe/f/6022d729-d2c1-40ea-9953-3afd929414cc/Christimas_Vic_For_Vic_render.png" width="250"/>
+  <img src="https://waifuvault.moe/f/3942f294-5041-437f-8875-56b4016a3345/victorica%20de%20blois,%20gosick,%20gothic%20lolita,%20white%20background,%20black%20pantyhose,%20p%20s-2547239991.png" width="250"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
 ## 💖 GitHub Stats 💖
 
 <p align="center">
@@ -114,31 +121,31 @@ Currently working on AI/ML projects for the Indian Stock Market and beyond.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-## 📊 What I'm Working On 📊
+## � What I'm Working On �
 
 ```python
 class DataScientist:
     def __init__(self):
         self.name = "Kirisos Guna"
-        self.role = "Data Scientist & ML Engineer"
-        self.location = "India"
+        self.role = "Data Scientist & ML Engineer 🚀"
+        self.location = "India 🇮🇳"
         self.current_focus = [
-            "Machine Learning",
-            "Deep Learning",
-            "Statistical Analysis",
-            "Stock Market Prediction",
-            "Computer Vision",
-            "AI-Powered Applications"
+            "🤖 Machine Learning",
+            "🧠 Deep Learning",
+            "📈 Statistical Analysis",
+            "💹 Stock Market Prediction",
+            "👁️ Computer Vision",
+            "✨ AI-Powered Applications"
         ]
         self.learning = [
-            "Advanced ML Algorithms",
-            "Natural Language Processing",
-            "Time Series Analysis",
-            "Cloud Computing"
+            "🎯 Advanced ML Algorithms",
+            "🗣️ Natural Language Processing",
+            "⏰ Time Series Analysis",
+            "☁️ Cloud Computing"
         ]
     
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing with data!")
+        print("✨ Thanks for dropping by! Let's build something amazing with data! 💖")
 
 me = DataScientist()
 me.say_hi()
@@ -190,11 +197,9 @@ me.say_hi()
   <sub>Feel free to reach out if you want to work on something interesting together.</sub>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kirisos-Guna/Kirisos-Guna/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kirisos-Guna/Kirisos-Guna/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kirisos-Guna/Kirisos-Guna/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kirisos-Guna/Kirisos-Guna/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,50:ff1493,100:c71585&height=100&section=footer" width="100%"/>
 
