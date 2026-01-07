@@ -90,7 +90,7 @@ Currently working on AI/ML projects for the Indian Stock Market and beyond.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-## 🌸 Featured Projects 🌸
+  <!-- ## 🌸 Featured Projects 🌸
 
 <p align="center">
   <a href="https://github.com/Kirisos-Guna/Prototype">
@@ -118,7 +118,7 @@ Currently working on AI/ML projects for the Indian Stock Market and beyond.
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"> -->
 
 ## 🎓 Expertise Areas 🎓
 
